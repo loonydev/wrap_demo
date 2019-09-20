@@ -20,7 +20,7 @@ python3 -c "import build.main as main;print(dir(main))"
 
 ### Wrap with Ctypesgen
 
-Cloning [ctypesgen repository|https://github.com/davidjamesca/ctypesgen.git]
+Cloning [ctypesgen repository](https://github.com/davidjamesca/ctypesgen.git)
 
 ```sh
 sh build.sh
